@@ -1,18 +1,14 @@
-#Arad Jahangiri
-<hr/>
+# Arad Jahangiri
 I'm Arad from Iran, and I do content on Development. I really enjoy learning languages and frameworks like javascript,React and... .
 
-##Skills and Experience
+## Skills and Experience
 
-*⚛️React
-*🧑🏼‍💻HTML,CSS,SCSS,JS,TS,MUI
+* ⚛️React
+* 🧑🏼‍💻HTML , CSS , SCSS , JS , TS , MUI
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React typescript 
-- 😄 Pronouns: He/His 
+## socials
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aaradj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_.aarad/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/aaradj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_.aarad/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaradj)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradj&show_icons=true&theme=radical)
