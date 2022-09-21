@@ -1,7 +1,6 @@
-Hi guys I'm Arad Jahangiri 👋
-- 🌱 I’m currently learning React typescript.
-- 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Dcodumentation.
-- 💬 Ask me about React javascrip.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I live in hell.
+Hi There 👋
+
+I'm Arad from Iran, and I do content on design and Development. I really enjoy learning languages and frameworks like javascript typescript React and... . you can check out my instagram account instagram.com/_.aarad or instagram.com/crazy_coders .
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradj)](https://github.com/anuraghazra/github-readme-stats)
+
