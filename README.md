@@ -6,6 +6,7 @@ I'm Arad , and I'm A 17 y.o React developer . I really enjoy learning languages 
 * ⚛️React
 * 🧑🏼‍💻HTML , CSS , SCSS , JS , TS , MUI
 
+
 ## socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' >](https://github.com/aaradj)
