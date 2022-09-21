@@ -1,8 +1,11 @@
-### Hi there 👋, my name is Arad
-#### Development 
+#Arad Jahangiri
+<hr/>
 I'm Arad from Iran, and I do content on Development. I really enjoy learning languages and frameworks like javascript,React and... .
 
-Skills:  REACT / JS /TS/ HTML / CSS/SCSS/MUI
+##Skills and Experience
+
+*⚛️React
+*🧑🏼‍💻HTML,CSS,SCSS,JS,TS,MUI
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React typescript 
