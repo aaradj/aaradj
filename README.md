@@ -1,5 +1,5 @@
 # Arad Jahangiri
-I'm Arad from Iran, and I do content on Development. I really enjoy learning languages and frameworks like javascript,React and... .
+I'm Arad , and I'm A 17 y.o React developer . I really enjoy learning languages and frameworks like javascript,React and... .
 
 ## Skills and Experience
 
