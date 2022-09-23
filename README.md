@@ -1,5 +1,5 @@
 # Arad Jahangiri
-I'm Arad , and I'm A 17 y.o React developer . I really enjoy learning languages and frameworks like javascript,React and... .
+I'm Arad and I'm A 17 y.o React developer . I really enjoy learning languages and frameworks like javascript,React and... .
 
 ## Skills and Experience
 
@@ -8,7 +8,7 @@ I'm Arad , and I'm A 17 y.o React developer . I really enjoy learning languages 
 * Ⓜ️MUI
 
 
-## socials
+## 📲socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' >](https://github.com/aaradj)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/arad.jahangiri) 
