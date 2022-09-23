@@ -3,8 +3,9 @@ I'm Arad , and I'm A 17 y.o React developer . I really enjoy learning languages 
 
 ## Skills and Experience
 
+* 🧑🏼‍💻HTML , CSS , SCSS , JS , TS
 * ⚛️React
-* 🧑🏼‍💻HTML , CSS , SCSS , JS , TS , MUI
+* Ⓜ️MUI
 
 
 ## socials
