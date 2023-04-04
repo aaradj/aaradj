@@ -18,6 +18,8 @@ Hi guys I'm Arad, and I'm passionate about web programming. I'm a junior fronten
 ](https://www.facebook.com/arad.jahangiri) 
 [<img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 ](https://www.linkedin.com/in/arad-jahangiri-262515264)
+[<img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+](https://twitter.com/_aarad)
 
 <hr/>
 <br/>
