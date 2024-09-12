@@ -1,8 +1,6 @@
 
 # Arad Jahangiri
 
-# 18 y.o
-
 # Iran📍
 
 Hi guys I'm Arad, and I'm passionate about web programming. I'm a junior frontend developer👨‍💻
