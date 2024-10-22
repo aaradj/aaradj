@@ -12,8 +12,6 @@ Hi guys I'm Arad, and I'm passionate about web programming. I'm a junior fronten
 <hr/>
 
 ## 📲socials
-[<img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-](https://www.facebook.com/arad.jahangiri.3) 
 [<img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 ](https://www.linkedin.com/in/arad-jahangiri-262515264)
 
