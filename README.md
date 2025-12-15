@@ -1,49 +1,98 @@
-## Hi there 👋, I'm Arad!
+<div align="center">
 
-🚀 **Frontend Developer** with nearly 3 years of hands-on experience crafting modern, user-centric web applications. I'm passionate about transforming ideas into elegant, performant, and responsive interfaces.
+# 👨‍💻 Arad Jahangiri 
+### Frontend Developer | React Specialist
 
-My current focus is on the **React ecosystem**, where I build scalable and efficient applications using the latest tools and best practices.
+📍 **Iran** | 🎯 **3+ Years Experience**
 
-### 🛠️ Tech Stack & Tools
+✨ **Crafting digital experiences with clean code and pixel-perfect designs** ✨
 
-**Core:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**State & Data Management:**  
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Styling & UI:**  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Forms & Routing:**  
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white)
-![Formik](https://img.shields.io/badge/-Formik-0051CD?style=flat-square&logo=formik&logoColor=white)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🌱 Currently
-- Deepening my knowledge in **Next.js 16+** features (App Router, Server Actions, etc.).
-- Exploring advanced patterns in **state management** and **data fetching**.
-- Learning about **performance optimization** and **web accessibility**.
-
-### 📫 Let's Connect!
-I'm always open to discussing frontend development, new opportunities, or just connecting with fellow developers!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arad-jahangiri-262515264)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaradj)
+</div>
 
 ---
-📊 **GitHub Stats**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaradj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 **My Tech Universe**
+
+### **🌌 Core Galaxies**
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Safe%20&%20Scalable-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Hooks%20&%20Effects-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **⚡ Modern Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-13%2B%20|%20App%20Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-DOM%20Navigation-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### **🎨 Styling & UI Planets**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Utility%20First-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-Design%20System-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-Stylish%20&%20Powerful-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### **🔄 State & Data Constellations**
+![React Query](https://img.shields.io/badge/React%20Query-Server%20State-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Predictable%20State-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### **📝 Form Management Nebulas**
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Performance%20First-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-Form%20Ecosystem-0051CD?style=for-the-badge&logo=formik&logoColor=white)
+
+### **🛠️ Tools & Utilities**
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-Package%20Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🎯 **What I'm Building Now**
+
+graph LR
+    A[My Current Focus] --> B[Next.js 13+]
+    A --> C[React Ecosystem]
+    A --> D[Performance]
+    
+    B --> B1[App Router]
+    B --> B2[Server Components]
+    B --> B3[API Routes]
+    
+    C --> C1[React Query]
+    C --> C2[Hook Forms]
+    C --> C3[Custom Hooks]
+    
+    D --> D1[Optimization]
+    D --> D2[Accessibility]
+    D --> D3[Best Practices]
+📊 My GitHub Skyline
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=aaradj&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=4cc9f0&text_color=ffffff&icon_color=4cc9f0
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=aaradj&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,16213e&title_color=4cc9f0&text_color=ffffff
+
+</div>
+🌟 Featured Projects
+const featuredProjects = [
+  {
+    name: "React Dashboard",
+    tech: ["Next.js", "Tailwind", "React Query"],
+    status: "🚀 Live"
+  },
+  {
+    name: "Form Library",
+    tech: ["React Hook Form", "TypeScript", "Zod"],
+    status: "🛠️ Building"
+  },
+  {
+    name: "UI Component Kit",
+    tech: ["React", "Tailwind", "Storybook"],
+    status: "📦 Published"
+  }
+];
+📫 Let's Connect & Collaborate!
+<div align="center">
+https://img.shields.io/badge/LinkedIn-Connect%2520Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-Explore%2520My%2520Code-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-Say%2520Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+
+</div>
+<div align="center">
+💫 "Code is poetry, and I'm writing my epic"
+⭐ Fun Fact: I believe every bug is just a feature waiting to be discovered!
+
+</div>
