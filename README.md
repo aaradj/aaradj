@@ -24,12 +24,12 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-4.9+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
 ### **⚡ Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/Next.js-13+-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-16+-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_Router-6.8-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.3-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
@@ -64,60 +64,6 @@
 
 ---
 
-## 📈 **Development Focus**
-
-
-graph TD
-    A[My Development Journey] --> B[Frontend Excellence]
-    A --> C[Modern Frameworks]
-    A --> D[Best Practices]
-    
-    B --> B1[User Experience]
-    B --> B2[Performance]
-    B --> B3[Accessibility]
-    
-    C --> C1[Next.js 13+]
-    C --> C2[React Ecosystem]
-    C --> C3[TypeScript]
-    
-    D --> D1[Clean Code]
-    D --> D2[Testing]
-    D --> D3[Documentation]
-📊 GitHub Analytics
-<div align="center">
-🏆 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=aaradj&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff
-
-💻 Most Used Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=aaradj&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,16213e&title_color=00b4d8&text_color=ffffff
-
-🔥 Contribution Streak
-https://streak-stats.demolab.com/?user=aaradj&theme=radical&hide_border=true&background=1a1a2e&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8
-
-🏅 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=aaradj&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7
-
-</div>
-🚀 Featured Projects
-<div align="center">
-Project	Tech Stack	Description	Status
-Modern Dashboard	Next.js 13 • Tailwind • React Query	Advanced admin dashboard with real-time analytics	🔥 Active
-Form Builder	React Hook Form • TypeScript • Zod	Drag & drop form builder with validation	🚀 Live
-UI Library	React • Tailwind • Storybook	Reusable component library	📦 Published
-E-commerce	Next.js • Redux Toolkit • Stripe	Full-featured online store	⚡ Developing
-</div>
-🌟 Currently Learning & Exploring
-<p align="center"> <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 14" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" /> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /> </p>
-📫 Connect With Me
-<div align="center">
-Let's build something amazing together! 🚀
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white
-
-</div>
 <div align="center">
 💡 Development Philosophy
 "Write code that not only works but tells a story, solves a problem, and brings value to users."
