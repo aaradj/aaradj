@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arad%20Jahangiri&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20|%20React%20Specialist&descSize=20&descAlignY=55" alt="Header Banner" />
 
 <!-- Profile Info -->
-### 👨‍💻 Passionate Frontend Developer from Iran
+### 👨‍💻 Passionate Frontend Developer
 #### 🎯 4+ Years of Experience • 🚀 Modern Web Technologies
 
 ✨ **Transforming ideas into performant, accessible, and beautiful web experiences** ✨
