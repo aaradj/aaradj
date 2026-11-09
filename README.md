@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arad%20Jahangiri&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20|%20React%20Specialist&descSize=20&descAlignY=55" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arad%20Jahangiri&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20|%20React%20And%20Next.js&descSize=20&descAlignY=55" alt="Header Banner" />
 
 <!-- Profile Info -->
 ### 👨‍💻 Passionate Frontend Developer
